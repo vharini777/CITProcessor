@@ -1,3 +1,4 @@
+//codeowners verification test
 module correct_counter (
     input  logic       clk,
     input  logic       rst_n,
