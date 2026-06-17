@@ -1,3 +1,4 @@
+#verified
 module wrong_counter (
     input  logic       clk,
     input  logic       rst_n,
